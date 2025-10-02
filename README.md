@@ -79,10 +79,4 @@ Predict target values for test data
 
 ⚖️ Benchmark C++ vs Python implementations
 
-##📚 References
-
-mlpack Documentation
-
-Armadillo Documentation
-
 ✍️ This repo marks the start of my ML journey in C++, experimenting with efficient computation and mlpack’s powerful API.
