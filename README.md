@@ -48,33 +48,25 @@ sudo apt-get install libmlpack-dev libarmadillo-dev cmake g++
 ```
 
 
-##📊 Features Implemented
-## 🔢 Matrix Operations (1.cpp)
+## 📊 Features Implemented
 
+🔢 Matrix Operations (1.cpp)
 Matrix creation, multiplication, transpose, and inverses.
 
 📂 CSV Import (data.cpp)
-
 Load dataset from .csv into Armadillo/mlpack matrices.
 
 📈 Data Analysis (dataana.cpp)
-
 Show number of rows & columns
-
 Compute basic stats (mean, variance, min/max).
 
 📉 Linear Regression (LinearRegression.cpp)
-
 Train a Linear Regression model using mlpack
-
 Predict target values for test data
 
 🔮 Future Work
-
 ➕ Add Logistic Regression
-
 🌳 Implement Decision Trees & Random Forests
-
 🎯 Explore Clustering (K-Means)
 
 ⚖️ Benchmark C++ vs Python implementations
