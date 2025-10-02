@@ -27,7 +27,6 @@ ML-Cpp/
 ├── data.cpp # CSV Import using Armadillo/mlpack utilities
 ├── dataana.cpp # Basic dataset information (rows, columns, summary)
 ├── LinearRegression.cpp # Linear Regression model with mlpack
-│
 └── README.md # Project Documentation
 
 
