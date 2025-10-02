@@ -53,17 +53,17 @@ sudo apt-get install libmlpack-dev libarmadillo-dev cmake g++
 
 Matrix creation, multiplication, transpose, and inverses.
 
-##📂 CSV Import (data.cpp)
+📂 CSV Import (data.cpp)
 
 Load dataset from .csv into Armadillo/mlpack matrices.
 
-##📈 Data Analysis (dataana.cpp)
+📈 Data Analysis (dataana.cpp)
 
 Show number of rows & columns
 
 Compute basic stats (mean, variance, min/max).
 
-##📉 Linear Regression (LinearRegression.cpp)
+📉 Linear Regression (LinearRegression.cpp)
 
 Train a Linear Regression model using mlpack
 
