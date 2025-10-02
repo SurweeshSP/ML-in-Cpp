@@ -64,11 +64,11 @@ Compute basic stats (mean, variance, min/max).
 Train a Linear Regression model using mlpack
 Predict target values for test data
 
-🔮 Future Work
+## 🔮 Future Work
+
 ➕ Add Logistic Regression
 🌳 Implement Decision Trees & Random Forests
 🎯 Explore Clustering (K-Means)
-
 ⚖️ Benchmark C++ vs Python implementations
 
 ✍️ This repo marks the start of my ML journey in C++, experimenting with efficient computation and mlpack’s powerful API.
